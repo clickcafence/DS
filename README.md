@@ -2,7 +2,7 @@
 
 The goal of this project is to make a prediction model which will give total production of the coffee from year 1990-2018.
 
-Sourde Data set: https://www.kaggle.com/datasets/yamaerenay/ico-coffee-dataset-worldwide
+Source Data set: https://www.kaggle.com/datasets/yamaerenay/ico-coffee-dataset-worldwide
 
 Files in the dataset:
 
